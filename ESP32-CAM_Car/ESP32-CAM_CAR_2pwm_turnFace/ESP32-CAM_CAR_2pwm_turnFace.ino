@@ -47,8 +47,8 @@ http://192.168.xxx.xxx/control?var=flash&val=value        // value = 0 ~ 255
 */
 
 //輸入WIFI連線帳號密碼
-const char* ssid = "teacher";
-const char* password = "87654321";
+const char* ssid = "mark02";
+const char* password = "TAD81330";
 
 //輸入AP端連線帳號密碼  http://192.168.4.1
 const char* apssid = "esp32-cam";
